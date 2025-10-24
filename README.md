@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Dynamic Adaptive Sampling for Accurate Image-based 3D Insect Reconstruction Using Neural Implicit Surfaces
+        <h1>Dynamic Adaptive Sampling for Accurate Image-based 3D Insect Reconstruction Using Neural Implicit Surfaces (accepted for DICTA 2025)
 </h1>
     </header>
     <nav>

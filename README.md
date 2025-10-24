@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Adaptive Sampling for Accurate Image-based 3D Insect Reconstruction Using Neural Implicit Surfaces
+    
 </title>
 </head>
 <body>
